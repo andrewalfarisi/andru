@@ -1,7 +1,0 @@
-1. berbagai perintah yang umum digunakan di git.
-
-
-1.  membuat repository baru.. masuk ke folder yang diinginkan
-	perintah : git init
-
-2. melihat status working offline
